@@ -1,13 +1,13 @@
 [
     {
-      "name": "Juan",
-      "quote":
-        "Ero molto scettico su questo percorso, ho però deciso di buttarmi e sono davvero felice di averlo fatto. Mi ha permesso di avvicinarmi a un Dio che mi ama immensamente e che ha riempito quel vuoto dentro me che tanto ho cercato di riepire con tutt'altro."
-    },
-    {
       "name": "Francesco",
       "quote":
         "Se dovessi descrivere Alpha in poche parole, direi che è un’occasione per aprire una breccia nel cuore delle persone permettendo a Dio di entrare. È quello che è successo a me: attraverso Alpha ho vissuto un incontro che ha trasformato profondamente la mia vita e soprattutto il mio rapporto con Dio. Ho imparato a conoscerlo come un Padre che mi ama e che mi libera"
+    },
+     {
+      "name": "Juan",
+      "quote":
+        "Ero molto scettico su questo percorso, ho però deciso di buttarmi e sono davvero felice di averlo fatto. Mi ha permesso di avvicinarmi a un Dio che mi ama immensamente e che ha riempito quel vuoto dentro me che tanto ho cercato di riepire con tutt'altro."
     },
     {
       "name": "Michela",
